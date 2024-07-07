@@ -25,7 +25,7 @@
 <br/>
 <hr/>
 
-
+&nbsp;
 <div align="center"> 
   <a href="mailto:shauryag228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-595959?style=for-the-badge&logo=gmail&logoColor=red" />
