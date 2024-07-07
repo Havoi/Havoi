@@ -40,10 +40,7 @@
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
-    <h1 align = 'right'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</h1>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
 
 <br/>
 
