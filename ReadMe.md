@@ -6,9 +6,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Shaurya+Gupta+!;" />
 </h1>
-<h2 display="inline-block" align="center">
-    <img src="assets/study.png" />
-    <img height="5%" width = "5%" src="assets/india.png"/>
+<h2  display="inline-block" align="center">
+    <img float = "left" src="assets/study.png" />
+    <img float = "right" height="5%" width = "5%" src="assets/india.png"/>
 </h2>
 <h3 align="center">Currently studying Aerospace Eng. in IIT Bombay 🇮🇳</h3>
 
