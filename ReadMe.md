@@ -11,13 +11,13 @@
 
 <br/>
 
-<h4 font='Times New Roman' align="center">
+<div align="center">
 
 🔭 I’m currently working on **myself**
 
 🌱 I’m currently learning **Rust**
 
-</h4>
+</div>
 
 <div align="center"> 
   <a href="mailto:shauryag228@gmail.com">
