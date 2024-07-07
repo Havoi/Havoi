@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kyoto-max.kyotomax&left_color=red&right_color=green"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Havoi.Havoi&left_color=red&right_color=green"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Shaurya+Gupta+!;" />
