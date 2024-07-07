@@ -17,15 +17,13 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div display = "inline" align="center">
+<div display = "inline-block" align="center">
     <img align='right'src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git,docker&perline=3" />
   <img align='left' float = 'right'src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/><br/>
+
 
 <hr/>
 
