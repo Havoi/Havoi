@@ -40,6 +40,7 @@
 
 <br/>
 <hr/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
