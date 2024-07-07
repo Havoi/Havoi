@@ -38,17 +38,18 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
+    <h1 align = 'right'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</h1>
 </div>
 
 <br/>
 
 
 <hr/>
-<h1 align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</h1>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
