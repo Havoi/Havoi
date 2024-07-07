@@ -10,18 +10,20 @@
     <img height = "80%" width = "80%" float = "left" src="assets/study.png" />
     <img float = "right" height="5%" width = "5%" src="assets/india.png"/>
 </h2>
-<h3 align="center">Currently studying Aerospace Eng. in IIT Bombay 🇮🇳</h3>
+
 
 <br/>
-
-<div align="center">
-
-🔭 I’m currently working on **myself**
-
-🌱 I’m currently learning **Rust**
-
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div display = "inline" align="center">
+    <img  float = 'left'src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
+    <img float = 'right'src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
+<br/>
+<hr/>
 <div align="center"> 
   <a href="mailto:shauryag228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-595959?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -37,15 +39,11 @@
   
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
-</div>
+<hr/>
 
-<br/>
+
+ 
+
 
 
 <hr/>
