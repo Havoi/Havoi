@@ -40,8 +40,9 @@
 
 <br/>
 <hr/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
+<h1 align = 'center'
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</h1>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
