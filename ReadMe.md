@@ -43,7 +43,7 @@
 
 <div align="center"> 
 <a>
-    <img src="assets/animation.gif">
+    <img height = '30%' width = '30%' src="assets/animation.gif">
 </a>
 
 
