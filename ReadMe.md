@@ -41,6 +41,11 @@
   
 </div>
 
+<div align="center"> 
+<a>
+    <img src="assets/animation.gif">
+</a>
+
 
 
 
