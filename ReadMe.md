@@ -8,6 +8,7 @@
 </h1>
 <h1 align="center">
     <img src="assets/study.png" />
+    <img src="assets/india.png"/>
 </h1>
 <h3 align="center">Currently studying Aerospace Eng. in IIT Bombay 🇮🇳</h3>
 
