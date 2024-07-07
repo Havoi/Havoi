@@ -1,6 +1,8 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=Havoi&icon=0&color=6"/>
 
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap" rel="stylesheet">
 
 
 <h1 align="center">
@@ -11,7 +13,7 @@
 
 <br/>
 
-<div font='Baskervville SC' align="center">
+<div font='Bodoni Moda SC' align="center">
 
 🔭 I’m currently working on **myself**
 
