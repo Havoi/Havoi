@@ -9,7 +9,7 @@
 
 <h3 align="center">Currently studying Aerospace Eng. in IIT Bombay 🇮🇳</h3>
 
-<br/>
+
 
 <div align="center">
 
@@ -34,7 +34,6 @@
   
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <!-- <br/>
@@ -42,9 +41,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
 
-<br/> -->
+
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/Havoi">
     <img width="55%" align="right" alt="Havoi's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 
@@ -69,6 +68,6 @@
 </p>
 
 
-<hr/>
+
 
 
