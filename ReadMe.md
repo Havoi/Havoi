@@ -24,6 +24,8 @@
 
 <br/>
 <hr/>
+
+
 <div align="center"> 
   <a href="mailto:shauryag228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-595959?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,21 +41,7 @@
   
 </div>
 
-<hr/>
+
 
 
  
-
-
-
-<hr/>
-<h1 align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</h1>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyoto-max/kyoto-max/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
