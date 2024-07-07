@@ -20,11 +20,11 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:pedro.sales.crackjee2k24@gmail.com">
+  <a href="mailto:shauryag228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-595959?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
-  <a href="https://linkedin.com/in/anirudh-goel-045a82310" target="_blank">
+  <a href="https://www.linkedin.com/shaurya-gupta-a92367278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
