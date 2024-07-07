@@ -19,10 +19,10 @@
 <br/>
 <div display = "inline" align="center">
     <a>
-    <img height= '30%' width='30%' align='left'src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git,docker&perline=3" />
+    <img  align='left'src="https://skillicons.dev/icons?i=c,cpp,rust,python,golang,vscode,github,git,docker&perline=3" />
     <a/>
         <a>   
-      <img height= '30%' width='30%'  align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img   align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </a></div>
 <br/>
         
